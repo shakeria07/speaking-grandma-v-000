@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-
+phrase.upcase? "HUH?! SPEAK UP, SONNY!" : "NO, NOT SINCE 1938!"
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
