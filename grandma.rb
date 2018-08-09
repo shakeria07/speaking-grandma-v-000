@@ -1,7 +1,6 @@
 # Write a speak_to_grandma method.
 
-if phrase.upcase
-  puts "I LOVE YOU TOO PUMPKIN!"
+def speak_to_grandma(string)
 end
 
 
