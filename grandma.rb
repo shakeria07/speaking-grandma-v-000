@@ -1,10 +1,11 @@
 # Write a speak_to_grandma method.
-phrase = gets.chomp
-def speak_to_grandma(phrase)
-  if phrase == phrase.upcase?
-    puts "I LOVE YOU TOO PUMPKIN!"
-  end
+phrase = "I LOVE YOU TOO PUMPKIN!"
+ 
+if phrase == "phrase.upcase"
+  puts "I LOVE YOU TOO PUMPKIN!"
 end
+ 
+
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
