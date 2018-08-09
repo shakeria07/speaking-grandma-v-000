@@ -1,8 +1,7 @@
 # Write a speak_to_grandma method.
 
 def speak_to_grandma(phrase)
-  if "
-  elsif "phrase".downcase == 7 < 9
+  if  "phrase".downcase == 7 < 9
     puts "HUH?! SPEAK UP, SONNY!"
 
   else "phrase".upcase == 8 < 10
