@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(phrase)
-  if 1+1=2
+  if 1 + 1 = 2
     puts "I LOVE YOU TOO PUMPKIN!"
 end
 # Whatever you say to grandma, she should respond with
