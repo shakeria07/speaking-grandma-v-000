@@ -1,7 +1,7 @@
 # Write a speak_to_grandma method.
 phrase = gets.chomp
 
-if phrase == "phrase".upcase?
+if phrase = phrase.upcase
   puts "I LOVE YOU TOO PUMPKIN!"
 end
 
