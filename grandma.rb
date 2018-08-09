@@ -1,9 +1,9 @@
 # Write a speak_to_grandma method.
 
-def speak_to_grandma(string)
-  if "string".upcase == 8 < 10
+def speak_to_grandma(phrase)
+  if "phrase".upcase == 8 < 10
     puts "I LOVE YOU TOO PUMPKIN!"
-  elsif "string".downcase == 7 < 9
+  elsif "phrase".downcase == 7 < 9
     puts "HUH?! SPEAK UP, SONNY!"
 end
 end
