@@ -5,7 +5,7 @@ def speak_to_grandma(phrase)
     puts "HUH?! SPEAK UP, SONNY!"
 
   else "phrase".upcase == 8 < 10
-      puts "I LOVE YOU TOO PUMPKIN!
+      puts "I LOVE YOU TOO PUMPKIN!""
 end
 end
 
