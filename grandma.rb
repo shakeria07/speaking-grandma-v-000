@@ -3,6 +3,8 @@
 def speak_to_grandma(string)
   if "string".upcase
     puts "I LOVE YOU TOO PUMPKIN!"
+  elsif "string".downcase? 
+    puts "HUH?! SPEAK UP, SONNY!"
 end
 end
 
